@@ -14,3 +14,5 @@
 # 部署地址
 [访问以测试](http://167.71.143.69:8080/jd/product/list)
 
+# 效果预览
+![京东商城预览](https://github.com/mingtingouyang/jd-solr-search/blob/master/jd.gif)
