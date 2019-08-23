@@ -1,3 +1,9 @@
+# jd 全文检索搜索
+[![GitHub issues](https://img.shields.io/github/issues/mingtingouyang/jd-solr-search)](https://github.com/mingtingouyang/jd-solr-search/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mingtingouyang/jd-solr-search)](https://github.com/mingtingouyang/jd-solr-search/network)
+[![GitHub license](https://img.shields.io/github/license/mingtingouyang/jd-solr-search)](https://github.com/mingtingouyang/jd-solr-search)
+[![GitHub stars](https://img.shields.io/github/stars/mingtingouyang/jd-solr-search)](https://github.com/mingtingouyang/jd-solr-search/stargazers)
+
 - [介绍](#介绍)
 - [环境](#环境)
 - [部署地址](#部署地址)
